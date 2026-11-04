@@ -12,4 +12,4 @@ I am passionate about Artificial Intelligence, Deep Learning, and Data Science. 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-babu-xyz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajmaurya5424@gmail.com)
-[![Twiter](https://img.shields.io/badge/Twiter-D14836?style=for-the-badge&logo=Twiter&logoColor=white)](https://Twiter.com/in/raja-babu-xyz)
+[![Twiter](https://img.shields.io/badge/Twiter-D14839?style=for-the-badge&logo=Twiter&logoColor=white)](https://Twiter.com/in/raja-babu-xyz)
