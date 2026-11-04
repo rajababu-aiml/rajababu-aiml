@@ -1,5 +1,14 @@
-### 🌐 Connect with me:
+# Hi there, I'm Raja Babu 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+🚀 **AI/ML Engineer | Python • PyTorch • TensorFlow | Building Intelligent Systems & ML Models**
+
+I am passionate about Artificial Intelligence, Deep Learning, and Data Science. Currently building end-to-end ML pipelines and expanding my tech stack.
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL, C++
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-babu-xyz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajmaurya5424@gmail.com)
